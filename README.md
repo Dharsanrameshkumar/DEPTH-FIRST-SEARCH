@@ -117,7 +117,8 @@ G F <BR>
 
 <h3>Sample Output</h3>
 
-![image](https://github.com/user-attachments/assets/07fdf91a-5574-47e0-9f37-c27c78645dff)
+<img width="548" height="55" alt="image" src="https://github.com/user-attachments/assets/e4dd0c54-f784-4298-83da-312df87c428b" />
+
 
 <h3>Sample Input</h3>
 
@@ -131,7 +132,8 @@ G F <BR>
 
 <h3>Sample Output</h3>
 
-![image](https://github.com/user-attachments/assets/5897144a-34cf-4e92-9de0-72654bab93ce)
+<img width="273" height="49" alt="image" src="https://github.com/user-attachments/assets/c5531f15-6bd8-4d6d-b48d-7620d6eb7bcf" />
+
 
 <h3>Result:</h3>
 
